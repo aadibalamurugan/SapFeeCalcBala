@@ -1,0 +1,4 @@
+1. import the application in the STS with version of 4.
+2. build your application in java8, because used some streams in the code.
+3. run the application as springboot.
+4. check in your local driver for output of CSV.

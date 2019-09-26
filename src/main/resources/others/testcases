@@ -1,0 +1,17 @@
+Mostly i use to write the test cases for each layer .
+ 
+ same time my time get over, so shared without writing it, but i used @mock annotation and when and return for writing the testcase.
+
+Controller:
+
+1. testdatapass (testcasename)- -> having the file in correct location and making it pass.
+2. testdatapass2-   -> without having the file in the location showing the message. but not throws any exception.
+3. testdataexception ->  Failure for the testdata.
+
+Service:
+
+gettransaction -> high level, we can have 2 test cases one is positive for try and other one for catch.
+checknormaltrasaction -> just have 1 tc or 3 tc 
+appliedChargesToMarketValue -> 3 tescases -> 1. try ,2.catch ,3 .catch 
+transactionDTO -> 1 TC 
+checkIntraDayTransaction -> 1 or 2 TC.
